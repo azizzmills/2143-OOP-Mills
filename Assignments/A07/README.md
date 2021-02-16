@@ -10,8 +10,8 @@ To use **UML** to design a simple game by describing the classes and what the ne
 
 ### Avatars
 <img src= "Avatars.PNG" width="200">
- - Contains the attributes that make up the Player 
- - Contains the attributes that make up the Debris
+- Has a Shape
+- Contains the attributes that make up the Player and Debris
 
 ### Player 
 <img src= "Player.PNG" width="200">
