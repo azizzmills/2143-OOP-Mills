@@ -10,15 +10,15 @@ To use **UML** to design a simple game by describing the classes and what the ne
 
 ### Avatars
 <img src= "Avatars.PNG" width="200">
-- Contains the attributes that make up the Player and Debris 
+-Contains the attributes that make up the Player and Debris 
 
 ### Player 
 <img src= "Player.PNG" width="200">
-- Contains staring amount of lives for the player
+-Contains staring amount of lives for the player
 
 ### Debris 
 <img src= "Debris.PNG" width="200">
-- Loops the debris until the game is over
+-Loops the debris until the game is over
 
 ### Dodge 
 <img src= "Dodge.PNG" width="200">
@@ -26,12 +26,12 @@ To use **UML** to design a simple game by describing the classes and what the ne
 
 ### Scores 
 <img src= "Scores.PNG" width="200">
-- The amount of times player dodges and gets hit when game is complete
+-The amount of times player dodges and gets hit when game is complete
 
 ### Status 
 <img src= "Status.PNG" width="200">
-- Decides whether the player wins or loses based on the amount of points gained
+-Decides whether the player wins or loses based on the amount of points gained
 
 ### Game
 <img src= "Game.PNG" width="200">
-- It is the "int main" to run the game
+-It is the "int main" to run the game
