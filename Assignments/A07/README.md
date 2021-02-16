@@ -35,3 +35,6 @@ Decides whether the player wins or loses based on the amount of points gained
 ### Game
 <img src= "Game.PNG" width="200">
 It is the "int main" to run the game
+
+### Flow Diagram
+<img src= "Flow Diagram.PNG" width="200">
