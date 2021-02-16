@@ -1,3 +1,11 @@
+## Assignment 7 - Designing The Game
+
+## Azizz Mills
+
+#### Description:
+
+To use **UML** to design a simple game by describing the classes and what the need and do.
+
 ## The charts below are the different classes for assignment 7's game design. They are as follows:
 
 ### Avatars
