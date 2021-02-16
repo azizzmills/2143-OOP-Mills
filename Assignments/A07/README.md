@@ -1,7 +1,7 @@
 ## The charts below are the different classes for assignment 7's game design. They are as follows:
 
 ### Avatars
-<img src= "https://github.com/azizzmills/2143-OOP-Mills/Assignments/A07/Avatar" width="200">
+<img src= "https://github.com/azizzmills/2143-OOP-Mills/Assignments/A07/Avatars" width="200">
 - Contains the attributes that make up the Player and Debris 
 
 ### Player 
