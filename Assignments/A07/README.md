@@ -1,6 +1,8 @@
 ## Assignment 7 - Designing The Game
 
 ## Azizz Mills
+### Date : 02/16/2021
+### Class : 2143 - OOP
 
 #### Description:
 
