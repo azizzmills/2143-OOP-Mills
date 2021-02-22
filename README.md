@@ -2,4 +2,4 @@
 ## Repo: 2143 Object Oriented Repo 
 ## Email: azizzmillz@gmail.com
 ## Image :
-<img src= "Pic.PNG" width="500">
+<img src= "Pic.PNG" width="400">
