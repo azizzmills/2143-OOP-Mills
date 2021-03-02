@@ -1,3 +1,25 @@
+///////////////////////////////////////////////////////////////////////////////
+//                   
+// Author:           Azizz Mills
+// Email:            azizzmillz@gmail.com
+// Label:            P01
+// Title:            Game: Game
+// Course:           CMPS 2143
+// Semester:         Spring 2021
+//
+// Description:
+//       This program is a simple game where a green ball avatar aims to dodge
+//       oncoming debris.
+// Usage: 
+//      - $ ./main filename
+//      - Use up/down arrow keys to move green player ball
+//      
+// Files:            
+//      P01.cpp    : driver program 
+///////////////////////////////////////////////////////////////////////////////
+
+
+
 #include <SFML/Graphics.hpp>
 #include <iostream>
 
