@@ -1,6 +1,6 @@
 ## Program 2 - Graphiviz API
 
-## Azizz Mills and Sharom Burton 
+## Azizz Mills and Sharome Burton 
 ### Date : 3/30/2021
 ### Class : 2143 - OOP
 
