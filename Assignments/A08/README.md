@@ -1,4 +1,4 @@
-## Assignment 8 - Designing The Game
+## Assignment 8 - Copy Constructor
 
 ## Azizz Mills
 ### Date : 03/18/2021
