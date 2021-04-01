@@ -9,3 +9,4 @@
 | [A07](./A07) | [A07](./A07) | [Designing the game](./A07)|
 | [A08](./A08) | [A08](./A08) | [Copy Constructor](./A08)|
 | [P01](./P01) | [P01](./P01) | [Game](./P01)|
+| [P02](./P02) | [P02](./P02) | [Graphviz API](./P02)|
