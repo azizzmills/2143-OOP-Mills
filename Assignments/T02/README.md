@@ -7,5 +7,4 @@
 #### Description:
 This is a take home assignment with the intent of boosting your grade. 
 
-### Files
 
